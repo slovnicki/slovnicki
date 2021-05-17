@@ -3,8 +3,9 @@
 Here's some information about me:
 
 - 💼 I’m working on a [Friendly Fire](https://friendlyfireesports.com) mobile/web/desktop Flutter app
+- 📦 I'm maintaining the [beamer](https://github.com/slovnicki/beamer) package
 - 🌱 I’m leading some of the projects at [Flutter Buddies](https://github.com/Flutter-Buddies)
-- 💬 Ask me about Dart and Flutter, especially routing with Navigator and [beamer](https://pub.dev/packages/beamer) package
+- 💬 Ask me about Dart and Flutter, especially routing
 - 📫 Reach me at
   - lovnicki.sandro@gmail.com
   - [Beamer Discord](https://discord.gg/8hDJ7tP5Mz)
