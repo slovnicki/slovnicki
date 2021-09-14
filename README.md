@@ -7,7 +7,7 @@ Here's some information about me:
 - 🌱 I’m leading some of the projects at [Flutter Buddies](https://github.com/Flutter-Buddies)
 - 💬 Ask me about Dart and Flutter, especially routing
 - 📫 Reach me at
-  - lovnicki.sandro@gmail.com
+  - [Twitter](https://twitter.com/SLovnicki)
   - [Beamer Discord](https://discord.gg/8hDJ7tP5Mz)
   - [Flutter Buddies Discord](https://discord.gg/QuMsGzshDK)
 
